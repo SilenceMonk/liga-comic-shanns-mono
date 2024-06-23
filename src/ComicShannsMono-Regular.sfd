@@ -22,11 +22,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1608751085
-<<<<<<< HEAD
-ModificationTime: 1718164581
-=======
-ModificationTime: 1718164698
->>>>>>> cleanup-glyphs
+ModificationTime: 1719130321
 PfmFamily: 49
 TTFWeight: 400
 TTFWidth: 5
@@ -70,11 +66,7 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-<<<<<<< HEAD
-WinInfo: 864 16 11
-=======
 WinInfo: 496 16 11
->>>>>>> cleanup-glyphs
 BeginPrivate: 4
 BlueValues 32 [-37 -5 469 489 662 671 715 719]
 OtherBlues 11 [-278 -268]
@@ -156,11 +148,7 @@ SplineSet
  325.833007812 720.666992188 330 708 330 690 c 0
 EndSplineSet
 Refer: 15 46 S 1 0 0 1 0.000976562 -10.002 2
-<<<<<<< HEAD
-Validated: 33
-=======
 Validated: 1
->>>>>>> cleanup-glyphs
 EndChar
 
 StartChar: quotedbl
@@ -210,11 +198,7 @@ SplineSet
  362.004882812 732.000976562 372.171875 729.16796875 382.504882812 723.500976562 c 0
  392.837890625 717.833984375 398.337890625 706.666992188 399.004882812 690 c 2
 EndSplineSet
-<<<<<<< HEAD
-Validated: 33
-=======
 Validated: 1
->>>>>>> cleanup-glyphs
 EndChar
 
 StartChar: numbersign
@@ -310,11 +294,7 @@ SplineSet
  344.5 362.505859375 349.333007812 389.338867188 354 416.005859375 c 1
  247 416.005859375 l 1
 EndSplineSet
-<<<<<<< HEAD
-Validated: 33
-=======
 Validated: 1
->>>>>>> cleanup-glyphs
 EndChar
 
 StartChar: dollar
@@ -402,11 +382,7 @@ SplineSet
  348.33203125 96.3349609375 372.499023438 110.334960938 393.499023438 129.001953125 c 0
  414.499023438 147.668945312 424.999023438 169.3359375 424.999023438 194.002929688 c 0
 EndSplineSet
-<<<<<<< HEAD
-Validated: 33
-=======
 Validated: 1
->>>>>>> cleanup-glyphs
 EndChar
 
 StartChar: percent
@@ -484,11 +460,7 @@ SplineSet
  354.907057062 82.350533954 357.937387 70.8913150961 363.998046875 61.498046875 c 0
  370.665039062 51.1650390625 384.33203125 45.6650390625 404.999023438 44.998046875 c 0
 EndSplineSet
-<<<<<<< HEAD
-Validated: 33
-=======
 Validated: 1
->>>>>>> cleanup-glyphs
 EndChar
 
 StartChar: ampersand
@@ -571,11 +543,7 @@ SplineSet
  187.000976562 309.66796875 161.333984375 286.334960938 148.000976562 257.001953125 c 0
  134.66796875 227.668945312 128.000976562 196.3359375 128.000976562 163.002929688 c 0
 EndSplineSet
-<<<<<<< HEAD
-Validated: 33
-=======
 Validated: 1
->>>>>>> cleanup-glyphs
 EndChar
 
 StartChar: quotesingle
@@ -606,11 +574,7 @@ SplineSet
  292 722.000976562 302.166992188 719.16796875 312.5 713.500976562 c 0
  322.833007812 707.833984375 328.333007812 696.666992188 329 680 c 2
 EndSplineSet
-<<<<<<< HEAD
-Validated: 33
-=======
 Validated: 1
->>>>>>> cleanup-glyphs
 EndChar
 
 StartChar: parenleft
@@ -772,11 +736,7 @@ SplineSet
  135.754544668 142.771746774 134.631817001 147.839021093 134.631817001 153.201822956 c 0
  134.631817001 160.575798271 136.754544668 168.508523952 141 177 c 0
 EndSplineSet
-<<<<<<< HEAD
-Validated: 33
-=======
 Validated: 1
->>>>>>> cleanup-glyphs
 EndChar
 
 StartChar: plus
@@ -822,11 +782,7 @@ SplineSet
  69.0481950479 311.543050053 79.8256524951 316.06457508 94.8331717539 316.06457508 c 0
  95.8686435854 316.06457508 96.9242529133 316.043050053 98 316 c 0
 EndSplineSet
-<<<<<<< HEAD
-Validated: 33
-=======
 Validated: 1
->>>>>>> cleanup-glyphs
 EndChar
 
 StartChar: comma
@@ -859,11 +815,7 @@ SplineSet
  347.378276921 116.388422298 350.0669271 108.933496069 350.0669271 100.13424475 c 0
  350.0669271 96.9339843492 349.711284734 93.5559027656 349 90 c 0
 EndSplineSet
-<<<<<<< HEAD
-Validated: 33
-=======
 Validated: 1
->>>>>>> cleanup-glyphs
 EndChar
 
 StartChar: hyphen
@@ -913,11 +865,7 @@ SplineSet
  352 41.66796875 345.333007812 25.16796875 332 11.5009765625 c 0
  318.666992188 -2.166015625 300.666992188 -10.3330078125 278 -13 c 0
 EndSplineSet
-<<<<<<< HEAD
-Validated: 33
-=======
 Validated: 1
->>>>>>> cleanup-glyphs
 EndChar
 
 StartChar: slash
@@ -956,11 +904,7 @@ SplineSet
  505.652487268 669.22855831 506.228715744 665.29245747 506.228715744 661.191727798 c 0
  506.228715744 652.244726626 503.48570554 642.514045737 498 632 c 0
 EndSplineSet
-<<<<<<< HEAD
-Validated: 33
-=======
 Validated: 1
->>>>>>> cleanup-glyphs
 EndChar
 
 StartChar: zero
@@ -1021,11 +965,7 @@ SplineSet
  179.997070312 95.99609375 191.1640625 81.8291015625 205.497070312 71.49609375 c 0
  219.830078125 61.1630859375 238.330078125 55.99609375 260.997070312 55.99609375 c 0
 EndSplineSet
-<<<<<<< HEAD
-Validated: 33
-=======
 Validated: 1
->>>>>>> cleanup-glyphs
 EndChar
 
 StartChar: one
@@ -1082,11 +1022,7 @@ SplineSet
  52.899920889 47.6609332944 55.6001845397 56.6005800205 61 65 c 0
  67 74.3330078125 78 79 94 79 c 0
 EndSplineSet
-<<<<<<< HEAD
-Validated: 33
-=======
 Validated: 1
->>>>>>> cleanup-glyphs
 EndChar
 
 StartChar: two
@@ -1144,11 +1080,7 @@ SplineSet
  74.0732783477 531.555257161 73.6104058027 534.829067912 73.6104058027 538.321453177 c 0
  73.6104058027 547.402882778 76.7402705352 557.962275743 83 570 c 0
 EndSplineSet
-<<<<<<< HEAD
-Validated: 33
-=======
 Validated: 1
->>>>>>> cleanup-glyphs
 EndChar
 
 StartChar: three
@@ -1209,11 +1141,7 @@ SplineSet
  397.666992188 344.333007812 435.166992188 327 461.5 303 c 0
  487.833007812 279 501 240 501 186 c 0
 EndSplineSet
-<<<<<<< HEAD
-Validated: 33
-=======
 Validated: 1
->>>>>>> cleanup-glyphs
 EndChar
 
 StartChar: four
@@ -1275,11 +1203,7 @@ SplineSet
  350.000976562 328.665039062 349.500976562 375.33203125 348.500976562 423.999023438 c 0
  347.500976562 472.666015625 345.66796875 518.999023438 343.000976562 562.999023438 c 1
 EndSplineSet
-<<<<<<< HEAD
-Validated: 33
-=======
 Validated: 1
->>>>>>> cleanup-glyphs
 EndChar
 
 StartChar: five
@@ -1344,11 +1268,7 @@ SplineSet
  210.666992188 -17 166.166992188 -6.3330078125 134.5 15 c 0
  102.833007812 36.3330078125 81 58.3330078125 69 81 c 0
 EndSplineSet
-<<<<<<< HEAD
-Validated: 33
-=======
 Validated: 1
->>>>>>> cleanup-glyphs
 EndChar
 
 StartChar: six
@@ -1405,11 +1325,7 @@ SplineSet
  413.993164062 279.002929688 403.326171875 318.669921875 381.993164062 338.002929688 c 0
  360.66015625 357.3359375 331.66015625 367.002929688 294.993164062 367.002929688 c 0
 EndSplineSet
-<<<<<<< HEAD
-Validated: 33
-=======
 Validated: 1
->>>>>>> cleanup-glyphs
 EndChar
 
 StartChar: seven
@@ -1454,11 +1370,7 @@ SplineSet
  60 627 62.5 635.666992188 67.5 643 c 0
  72.5 650.333007812 83.3330078125 655.333007812 100 658 c 0
 EndSplineSet
-<<<<<<< HEAD
-Validated: 33
-=======
 Validated: 1
->>>>>>> cleanup-glyphs
 EndChar
 
 StartChar: eight
@@ -1528,11 +1440,7 @@ SplineSet
  184.502929688 77.00390625 199.502929688 69.00390625 216.502929688 63.00390625 c 0
  233.502929688 57.00390625 250.3359375 54.00390625 267.002929688 54.00390625 c 0
 EndSplineSet
-<<<<<<< HEAD
-Validated: 33
-=======
 Validated: 1
->>>>>>> cleanup-glyphs
 EndChar
 
 StartChar: nine
@@ -1590,11 +1498,7 @@ SplineSet
  145.001953125 408.33203125 156.168945312 369.665039062 178.501953125 342.998046875 c 0
  200.834960938 316.331054688 233.66796875 302.998046875 277.000976562 302.998046875 c 0
 EndSplineSet
-<<<<<<< HEAD
-Validated: 33
-=======
 Validated: 1
->>>>>>> cleanup-glyphs
 EndChar
 
 StartChar: colon
@@ -1638,11 +1542,7 @@ SplineSet
  291.999023438 182.001953125 303.33203125 179.168945312 315.999023438 173.501953125 c 0
  328.666015625 167.834960938 336.333007812 156.66796875 339 140.000976562 c 0
 EndSplineSet
-<<<<<<< HEAD
-Validated: 33
-=======
 Validated: 1
->>>>>>> cleanup-glyphs
 EndChar
 
 StartChar: semicolon
@@ -1688,11 +1588,7 @@ SplineSet
  317 99.5009765625 322 95.16796875 326 89.5009765625 c 0
  330 83.833984375 331.666992188 77.0009765625 331 69.0009765625 c 0
 EndSplineSet
-<<<<<<< HEAD
-Validated: 33
-=======
 Validated: 1
->>>>>>> cleanup-glyphs
 EndChar
 
 StartChar: less
@@ -1735,11 +1631,7 @@ SplineSet
  233.66796875 152.833007812 199.66796875 183.833007812 165.000976562 215.5 c 0
  130.333984375 247.166992188 98.6669921875 273.666992188 70 295 c 0
 EndSplineSet
-<<<<<<< HEAD
-Validated: 33
-=======
 Validated: 1
->>>>>>> cleanup-glyphs
 EndChar
 
 StartChar: equal
@@ -1791,11 +1683,7 @@ SplineSet
  81.3597375201 214.554357821 92.3866712721 218.081048451 107.081561612 218.081048451 c 0
  108.359947819 218.081048451 109.666093781 218.054357821 111 218.000976562 c 0
 EndSplineSet
-<<<<<<< HEAD
-Validated: 33
-=======
 Validated: 1
->>>>>>> cleanup-glyphs
 EndChar
 
 StartChar: greater
@@ -1838,11 +1726,7 @@ SplineSet
  336.33203125 508.166992188 370.33203125 477.166992188 404.999023438 445.5 c 0
  439.666015625 413.833007812 471.333007812 387.333007812 500 366 c 0
 EndSplineSet
-<<<<<<< HEAD
-Validated: 33
-=======
 Validated: 1
->>>>>>> cleanup-glyphs
 EndChar
 
 StartChar: question
@@ -1888,11 +1772,7 @@ SplineSet
  333 299.833984375 321.666992188 275.666992188 317 245 c 0
 EndSplineSet
 Refer: 15 46 S 1 0 0 1 -9.00488 0.00683594 2
-<<<<<<< HEAD
-Validated: 33
-=======
 Validated: 1
->>>>>>> cleanup-glyphs
 EndChar
 
 StartChar: at
@@ -1981,11 +1861,7 @@ SplineSet
  475.166015625 554.166992188 490.333007812 515 501 465 c 0
  511.666992188 415 517 351.333007812 517 274 c 0
 EndSplineSet
-<<<<<<< HEAD
-Validated: 33
-=======
 Validated: 1
->>>>>>> cleanup-glyphs
 EndChar
 
 StartChar: A
@@ -2046,11 +1922,7 @@ SplineSet
  368.334960938 352.6640625 359.501953125 395.997070312 350.501953125 439.997070312 c 0
  341.501953125 483.997070312 333.001953125 524.997070312 325.001953125 562.997070312 c 1
 EndSplineSet
-<<<<<<< HEAD
-Validated: 33
-=======
 Validated: 1
->>>>>>> cleanup-glyphs
 EndChar
 
 StartChar: B
@@ -2129,11 +2001,7 @@ SplineSet
  401.997070312 200.663085938 388.1640625 217.330078125 360.497070312 235.997070312 c 0
  332.830078125 254.6640625 286.330078125 268.6640625 220.997070312 277.997070312 c 1
 EndSplineSet
-<<<<<<< HEAD
-Validated: 33
-=======
 Validated: 1
->>>>>>> cleanup-glyphs
 EndChar
 
 StartChar: C
@@ -2191,11 +2059,7 @@ SplineSet
  176.5 577.166992188 211 609.5 249 632.5 c 0
  287 655.5 323.666992188 667 359 667 c 0
 EndSplineSet
-<<<<<<< HEAD
-Validated: 33
-=======
 Validated: 1
->>>>>>> cleanup-glyphs
 EndChar
 
 StartChar: D
@@ -2247,11 +2111,7 @@ SplineSet
  129.333007812 540.000976562 129 499.833984375 129 459.500976562 c 0
  129 419.16796875 129.666992188 374.334960938 131 325.001953125 c 0
 EndSplineSet
-<<<<<<< HEAD
-Validated: 33
-=======
 Validated: 1
->>>>>>> cleanup-glyphs
 EndChar
 
 StartChar: E
@@ -2325,11 +2185,7 @@ SplineSet
  486.504892377 -1.65231505643 475.825125049 -6.22847258464 460.961376614 -6.22847258464 c 0
  459.043881423 -6.22847258464 457.056755399 -6.15231505643 455 -6 c 0
 EndSplineSet
-<<<<<<< HEAD
-Validated: 33
-=======
 Validated: 1
->>>>>>> cleanup-glyphs
 EndChar
 
 StartChar: F
@@ -2397,11 +2253,7 @@ SplineSet
  135.665039062 118.834960938 136.33203125 96.66796875 136.999023438 76.0009765625 c 0
  137.666015625 55.333984375 138.333007812 37.6669921875 139 23 c 0
 EndSplineSet
-<<<<<<< HEAD
-Validated: 33
-=======
 Validated: 1
->>>>>>> cleanup-glyphs
 EndChar
 
 StartChar: G
@@ -2471,11 +2323,7 @@ SplineSet
  185.666015625 266 187.333007812 275.833007812 192 285.5 c 0
  196.666992188 295.166992188 207 303.666992188 223 311 c 0
 EndSplineSet
-<<<<<<< HEAD
-Validated: 33
-=======
 Validated: 1
->>>>>>> cleanup-glyphs
 EndChar
 
 StartChar: H
@@ -2550,11 +2398,7 @@ SplineSet
  117.517662919 668.082438171 127.638983845 664.721625447 136.5 658 c 0
  146.166992188 650.666992188 151 638 151 620 c 0
 EndSplineSet
-<<<<<<< HEAD
-Validated: 33
-=======
 Validated: 1
->>>>>>> cleanup-glyphs
 EndChar
 
 StartChar: I
@@ -2614,11 +2458,7 @@ SplineSet
  38.3330078125 31 41.5 40.1669921875 48.5 48.5 c 0
  55.5 56.8330078125 67.6669921875 61.3330078125 85 62 c 0
 EndSplineSet
-<<<<<<< HEAD
-Validated: 33
-=======
 Validated: 1
->>>>>>> cleanup-glyphs
 EndChar
 
 StartChar: J
@@ -2675,11 +2515,7 @@ SplineSet
  55.33203125 631 58.83203125 640.166992188 66.4990234375 648.5 c 0
  74.166015625 656.833007812 86.3330078125 661.333007812 103 662 c 0
 EndSplineSet
-<<<<<<< HEAD
-Validated: 33
-=======
 Validated: 1
->>>>>>> cleanup-glyphs
 EndChar
 
 StartChar: K
@@ -2743,11 +2579,7 @@ SplineSet
  456.486418306 -19.4071542422 453.766107241 -19.1047694948 451.000976562 -18.5 c 0
  440.333984375 -16.1669921875 429.666992188 -8.6669921875 419 4 c 0
 EndSplineSet
-<<<<<<< HEAD
-Validated: 33
-=======
 Validated: 1
->>>>>>> cleanup-glyphs
 EndChar
 
 StartChar: L
@@ -2791,11 +2623,7 @@ SplineSet
  506 40 503.5 31.3330078125 498.5 24 c 0
  493.5 16.6669921875 482.666992188 11.6669921875 466 9 c 0
 EndSplineSet
-<<<<<<< HEAD
-Validated: 33
-=======
 Validated: 1
->>>>>>> cleanup-glyphs
 EndChar
 
 StartChar: M
@@ -2873,11 +2701,7 @@ SplineSet
  343.166992188 100.5 339 76 335 56 c 0
  331 36 327.666992188 22.6669921875 325 16 c 0
 EndSplineSet
-<<<<<<< HEAD
-Validated: 33
-=======
 Validated: 1
->>>>>>> cleanup-glyphs
 EndChar
 
 StartChar: N
@@ -2939,11 +2763,7 @@ SplineSet
  503.33203125 248.834960938 501.83203125 183.16796875 499.499023438 121.500976562 c 0
  497.166015625 59.833984375 493.333007812 22.6669921875 488 10 c 0
 EndSplineSet
-<<<<<<< HEAD
-Validated: 33
-=======
 Validated: 1
->>>>>>> cleanup-glyphs
 EndChar
 
 StartChar: O
@@ -2997,11 +2817,7 @@ SplineSet
  172.000976562 98 182.66796875 83.5 196.000976562 72.5 c 0
  209.333984375 61.5 225.666992188 56 245 56 c 0
 EndSplineSet
-<<<<<<< HEAD
-Validated: 33
-=======
 Validated: 1
->>>>>>> cleanup-glyphs
 EndChar
 
 StartChar: P
@@ -3064,11 +2880,7 @@ SplineSet
  337.837890625 573.669921875 323.004882812 579.836914062 307.004882812 583.50390625 c 0
  291.004882812 587.170898438 276.671875 589.00390625 264.004882812 589.00390625 c 0
 EndSplineSet
-<<<<<<< HEAD
-Validated: 33
-=======
 Validated: 1
->>>>>>> cleanup-glyphs
 EndChar
 
 StartChar: Q
@@ -3140,11 +2952,7 @@ SplineSet
  191.333007812 93.501953125 204.5 80.1689453125 219.5 70.501953125 c 0
  234.5 60.8349609375 251 56.001953125 269 56.001953125 c 2
 EndSplineSet
-<<<<<<< HEAD
-Validated: 33
-=======
 Validated: 1
->>>>>>> cleanup-glyphs
 EndChar
 
 StartChar: R
@@ -3219,11 +3027,7 @@ SplineSet
  143.999023438 527 l 2
  144.666015625 508.333007812 145.333007812 487.666015625 146 464.999023438 c 0
 EndSplineSet
-<<<<<<< HEAD
-Validated: 33
-=======
 Validated: 1
->>>>>>> cleanup-glyphs
 EndChar
 
 StartChar: S
@@ -3287,11 +3091,7 @@ SplineSet
  192 -27 152.5 -17.8330078125 119.5 0.5 c 0
  86.5 18.8330078125 64 39.3330078125 52 62 c 0
 EndSplineSet
-<<<<<<< HEAD
-Validated: 33
-=======
 Validated: 1
->>>>>>> cleanup-glyphs
 EndChar
 
 StartChar: T
@@ -3338,11 +3138,7 @@ SplineSet
  57.5518547014 663.894662099 66.4093420002 667.842233404 78.0714853339 667.842233404 c 0
  81.1815300772 667.842233404 84.4910349659 667.561491973 88 667 c 0
 EndSplineSet
-<<<<<<< HEAD
-Validated: 33
-=======
 Validated: 1
->>>>>>> cleanup-glyphs
 EndChar
 
 StartChar: U
@@ -3394,11 +3190,7 @@ SplineSet
  520.537941297 447.210792848 520.556423664 439.862035413 520.556423664 432.453727695 c 0
  520.556423664 373.122090317 519.37094911 309.970847753 517 243 c 0
 EndSplineSet
-<<<<<<< HEAD
-Validated: 33
-=======
 Validated: 1
->>>>>>> cleanup-glyphs
 EndChar
 
 StartChar: V
@@ -3443,11 +3235,7 @@ SplineSet
  474.754340268 662.845073795 481.225247375 664.267122412 487.411744758 664.267122412 c 0
  492.825637999 664.267122412 498.021723079 663.178081608 503 661 c 0
 EndSplineSet
-<<<<<<< HEAD
-Validated: 33
-=======
 Validated: 1
->>>>>>> cleanup-glyphs
 EndChar
 
 StartChar: W
@@ -3530,11 +3318,7 @@ SplineSet
  203.166992188 453.33203125 210.5 506.83203125 217.5 554.499023438 c 0
  224.5 602.166015625 230.333007812 631.333007812 235 642 c 0
 EndSplineSet
-<<<<<<< HEAD
-Validated: 33
-=======
 Validated: 1
->>>>>>> cleanup-glyphs
 EndChar
 
 StartChar: X
@@ -3603,11 +3387,7 @@ SplineSet
  473.558595305 -20.0919149993 472.609082257 -20.137872659 471.652437417 -20.137872659 c 0
  458.735230819 -20.137872659 444.51775168 -11.7588444929 429 5 c 0
 EndSplineSet
-<<<<<<< HEAD
-Validated: 33
-=======
 Validated: 1
->>>>>>> cleanup-glyphs
 EndChar
 
 StartChar: Y
@@ -3660,11 +3440,7 @@ SplineSet
  518.627702437 633.340202523 520.191597212 626.815348994 520.191597212 619.425439412 c 0
  520.191597212 610.276254207 517.794453247 599.801107737 513 588 c 0
 EndSplineSet
-<<<<<<< HEAD
-Validated: 33
-=======
 Validated: 1
->>>>>>> cleanup-glyphs
 EndChar
 
 StartChar: Z
@@ -3722,11 +3498,7 @@ SplineSet
  71.386215339 -5.04668899945 61.9836464609 1.3022073337 55 14 c 0
  47.6669921875 27.3330078125 44 39 44 49 c 0
 EndSplineSet
-<<<<<<< HEAD
-Validated: 33
-=======
 Validated: 1
->>>>>>> cleanup-glyphs
 EndChar
 
 StartChar: bracketleft
@@ -3790,11 +3562,7 @@ SplineSet
  125.33203125 761 128.83203125 770.166992188 136.499023438 778.5 c 0
  144.166015625 786.833007812 156.333007812 791.333007812 173 792 c 0
 EndSplineSet
-<<<<<<< HEAD
-Validated: 33
-=======
 Validated: 1
->>>>>>> cleanup-glyphs
 EndChar
 
 StartChar: backslash
@@ -3833,11 +3601,7 @@ SplineSet
  362.166992188 81.3330078125 353.666992188 99 345 117 c 0
  336.333007812 135 328 151.333007812 320 166 c 0
 EndSplineSet
-<<<<<<< HEAD
-Validated: 33
-=======
 Validated: 1
->>>>>>> cleanup-glyphs
 EndChar
 
 StartChar: bracketright
@@ -3901,11 +3665,7 @@ SplineSet
  118.666992188 -30.3330078125 121.5 -22.3330078125 126.5 -15 c 0
  131.5 -7.6669921875 142 -4 158 -4 c 0
 EndSplineSet
-<<<<<<< HEAD
-Validated: 33
-=======
 Validated: 1
->>>>>>> cleanup-glyphs
 EndChar
 
 StartChar: asciicircum
@@ -3950,11 +3710,7 @@ SplineSet
  141.166992188 748.333007812 158 768 176 790 c 0
  194 812 213.666992188 837.333007812 235 866 c 0
 EndSplineSet
-<<<<<<< HEAD
-Validated: 33
-=======
 Validated: 1
->>>>>>> cleanup-glyphs
 EndChar
 
 StartChar: underscore
@@ -3984,11 +3740,7 @@ SplineSet
  54.1427076794 -17.9523377627 63.8145727708 -13.9285066441 78.5163770892 -13.9285066441 c 0
  79.6477948187 -13.9285066441 80.8090023369 -13.9523377627 82 -14 c 0
 EndSplineSet
-<<<<<<< HEAD
-Validated: 33
-=======
 Validated: 1
->>>>>>> cleanup-glyphs
 EndChar
 
 StartChar: grave
@@ -4017,11 +3769,7 @@ SplineSet
  335.421700553 560.304333378 333.739206768 560.369556308 332 560.5 c 0
  318.666992188 561.5 305.666992188 568.333007812 293 581 c 0
 EndSplineSet
-<<<<<<< HEAD
-Validated: 33
-=======
 Validated: 1
->>>>>>> cleanup-glyphs
 EndChar
 
 StartChar: a
@@ -4076,11 +3824,7 @@ SplineSet
  200.498046875 342.833984375 187.665039062 322.000976562 176.998046875 296.000976562 c 0
  166.331054688 270.000976562 160.998046875 237.333984375 160.998046875 198.000976562 c 0
 EndSplineSet
-<<<<<<< HEAD
-Validated: 33
-=======
 Validated: 1
->>>>>>> cleanup-glyphs
 EndChar
 
 StartChar: b
@@ -4138,11 +3882,7 @@ SplineSet
  370.331054688 374.668945312 357.1640625 386.501953125 341.497070312 395.501953125 c 0
  325.830078125 404.501953125 307.997070312 409.334960938 287.997070312 410.001953125 c 0
 EndSplineSet
-<<<<<<< HEAD
-Validated: 33
-=======
 Validated: 1
->>>>>>> cleanup-glyphs
 EndChar
 
 StartChar: c
@@ -4197,11 +3937,7 @@ SplineSet
  364 493 394 480.5 420 455.5 c 0
  446 430.5 463 402.666992188 471 372 c 0
 EndSplineSet
-<<<<<<< HEAD
-Validated: 33
-=======
 Validated: 1
->>>>>>> cleanup-glyphs
 EndChar
 
 StartChar: d
@@ -4266,11 +4002,7 @@ SplineSet
  204.200389298 85.4881942708 235.351734784 69.9813148436 275.455013019 69.9813148436 c 0
  276.299696124 69.9813148436 277.148350638 69.9881942708 278.000976562 70.001953125 c 0
 EndSplineSet
-<<<<<<< HEAD
-Validated: 33
-=======
 Validated: 1
->>>>>>> cleanup-glyphs
 EndChar
 
 StartChar: e
@@ -4328,11 +4060,7 @@ SplineSet
  373.33203125 367.334960938 357.999023438 387.334960938 341.999023438 398.001953125 c 0
  325.999023438 408.668945312 308.666015625 414.001953125 289.999023438 414.001953125 c 0
 EndSplineSet
-<<<<<<< HEAD
-Validated: 33
-=======
 Validated: 1
->>>>>>> cleanup-glyphs
 EndChar
 
 StartChar: f
@@ -4403,11 +4131,7 @@ SplineSet
  94.172899776 67.2164231406 105.203115204 71.0741464297 121.091421419 71.0741464297 c 0
  122.363156231 71.0741464297 123.666015625 71.0494309531 125 71 c 0
 EndSplineSet
-<<<<<<< HEAD
-Validated: 33
-=======
 Validated: 1
->>>>>>> cleanup-glyphs
 EndChar
 
 StartChar: g
@@ -4479,11 +4203,7 @@ SplineSet
  400.666992188 203.334960938 401 231.334960938 401 262.001953125 c 0
  401 292.668945312 401.333007812 325.668945312 402 361.001953125 c 0
 EndSplineSet
-<<<<<<< HEAD
-Validated: 33
-=======
 Validated: 1
->>>>>>> cleanup-glyphs
 EndChar
 
 StartChar: h
@@ -4548,11 +4268,7 @@ SplineSet
  191.5 284.333984375 184.333007812 264.666992188 181 246 c 0
  177.666992188 227.333007812 176.005859375 216 176.005859375 212 c 1
 EndSplineSet
-<<<<<<< HEAD
-Validated: 37
-=======
 Validated: 1
->>>>>>> cleanup-glyphs
 EndChar
 
 StartChar: i
@@ -4587,11 +4303,7 @@ SplineSet
  400.666992188 524.5 382.666992188 517 360 517 c 0
 EndSplineSet
 Refer: 277 567 S 1 0 0 1 0.00195312 0.000976562 2
-<<<<<<< HEAD
-Validated: 33
-=======
 Validated: 1
->>>>>>> cleanup-glyphs
 EndChar
 
 StartChar: k
@@ -4654,11 +4366,7 @@ SplineSet
  454.142643675 -20.3331705928 452.332885742 -20.2221137285 450.5 -20 c 0
  439.5 -18.6669921875 429 -10.6669921875 419 4 c 0
 EndSplineSet
-<<<<<<< HEAD
-Validated: 33
-=======
 Validated: 1
->>>>>>> cleanup-glyphs
 EndChar
 
 StartChar: l
@@ -4718,11 +4426,7 @@ SplineSet
  52.899920889 47.6609332944 55.6001845397 56.6005800205 61 65 c 0
  67 74.3330078125 78 79 94 79 c 0
 EndSplineSet
-<<<<<<< HEAD
-Validated: 33
-=======
 Validated: 1
->>>>>>> cleanup-glyphs
 EndChar
 
 StartChar: m
@@ -4801,11 +4505,7 @@ SplineSet
  130 145.666992188 130.666992188 117.5 132 90.5 c 0
  133.333007812 63.5 134 42.6669921875 134 28 c 0
 EndSplineSet
-<<<<<<< HEAD
-Validated: 33
-=======
 Validated: 1
->>>>>>> cleanup-glyphs
 EndChar
 
 StartChar: n
@@ -4860,11 +4560,7 @@ SplineSet
  172.863636364 463.227982954 176.545454545 452.603749677 176.545454545 437.628276731 c 0
  176.545454545 434.300393854 176.363636364 430.757634944 176 427 c 0
 EndSplineSet
-<<<<<<< HEAD
-Validated: 33
-=======
 Validated: 1
->>>>>>> cleanup-glyphs
 EndChar
 
 StartChar: o
@@ -4906,11 +4602,7 @@ SplineSet
  152.844190401 171.777186438 160.063444643 135.491785386 174.501953125 106.000976562 c 0
  190.168945312 74.0009765625 223.668945312 56.66796875 275.001953125 54.0009765625 c 0
 EndSplineSet
-<<<<<<< HEAD
-Validated: 33
-=======
 Validated: 1
->>>>>>> cleanup-glyphs
 EndChar
 
 StartChar: p
@@ -4973,11 +4665,7 @@ SplineSet
  197.1640625 369.500976562 176.6640625 356.66796875 159.997070312 342.000976562 c 1
  159.997070312 331.000976562 l 2
 EndSplineSet
-<<<<<<< HEAD
-Validated: 33
-=======
 Validated: 1
->>>>>>> cleanup-glyphs
 EndChar
 
 StartChar: q
@@ -5036,11 +4724,7 @@ SplineSet
  193.8359375 91.3310546875 205.002929688 77.498046875 219.002929688 66.498046875 c 0
  233.002929688 55.498046875 250.002929688 49.6650390625 270.002929688 48.998046875 c 0
 EndSplineSet
-<<<<<<< HEAD
-Validated: 33
-=======
 Validated: 1
->>>>>>> cleanup-glyphs
 EndChar
 
 StartChar: r
@@ -5098,11 +4782,7 @@ SplineSet
  190.047662237 463.190997664 194.071493356 450.633785442 194.071493356 432.328363333 c 0
  194.071493356 431.101197313 193.977653015 421.082018429 191.000976562 399.495117188 c 0
 EndSplineSet
-<<<<<<< HEAD
-Validated: 33
-=======
 Validated: 1
->>>>>>> cleanup-glyphs
 EndChar
 
 StartChar: s
@@ -5166,11 +4846,7 @@ SplineSet
  196 -33 163.333007812 -25.3330078125 132 -10 c 0
  100.666992188 5.3330078125 80.6669921875 29.3330078125 72 62 c 0
 EndSplineSet
-<<<<<<< HEAD
-Validated: 33
-=======
 Validated: 1
->>>>>>> cleanup-glyphs
 EndChar
 
 StartChar: t
@@ -5231,11 +4907,7 @@ SplineSet
  474.914418551 29.3082711354 471.442796264 20.9583051455 464.5 13.5009765625 c 0
  455.5 3.833984375 445 -3.3330078125 433 -8 c 0
 EndSplineSet
-<<<<<<< HEAD
-Validated: 33
-=======
 Validated: 1
->>>>>>> cleanup-glyphs
 EndChar
 
 StartChar: u
@@ -5291,11 +4963,7 @@ SplineSet
  429.280718272 -22.0870273233 418.543163114 -18.8911037997 408.5 -12.5 c 0
  397.5 -5.5 392 8.3330078125 392 29 c 2
 EndSplineSet
-<<<<<<< HEAD
-Validated: 33
-=======
 Validated: 1
->>>>>>> cleanup-glyphs
 EndChar
 
 StartChar: v
@@ -5334,11 +5002,7 @@ SplineSet
  426.166992188 216.166992188 409 180.5 389 139.5 c 0
  369 98.5 346 49.6669921875 320 -7 c 0
 EndSplineSet
-<<<<<<< HEAD
-Validated: 33
-=======
 Validated: 1
->>>>>>> cleanup-glyphs
 EndChar
 
 StartChar: w
@@ -5404,11 +5068,7 @@ SplineSet
  486.333007812 161.333007812 479 126 471 92 c 0
  463 58 455.333007812 30.3330078125 448 9 c 0
 EndSplineSet
-<<<<<<< HEAD
-Validated: 33
-=======
 Validated: 1
->>>>>>> cleanup-glyphs
 EndChar
 
 StartChar: x
@@ -5466,11 +5126,7 @@ SplineSet
  457.558595305 -20.0919149993 456.609082257 -20.137872659 455.652437417 -20.137872659 c 0
  442.735230819 -20.137872659 428.51775168 -11.7588444929 413 5 c 0
 EndSplineSet
-<<<<<<< HEAD
-Validated: 33
-=======
 Validated: 1
->>>>>>> cleanup-glyphs
 EndChar
 
 StartChar: y
@@ -5511,11 +5167,7 @@ SplineSet
  518.627702437 442.340202523 520.191597212 435.815348994 520.191597212 428.425439412 c 0
  520.191597212 419.276254207 517.794453247 408.801107737 513 397 c 0
 EndSplineSet
-<<<<<<< HEAD
-Validated: 33
-=======
 Validated: 1
->>>>>>> cleanup-glyphs
 EndChar
 
 StartChar: z
@@ -5567,11 +5219,7 @@ SplineSet
  91.386215339 -5.04668899945 81.9836464609 1.3022073337 75 14 c 0
  67.6669921875 27.3330078125 64 39 64 49 c 0
 EndSplineSet
-<<<<<<< HEAD
-Validated: 33
-=======
 Validated: 1
->>>>>>> cleanup-glyphs
 EndChar
 
 StartChar: braceleft
@@ -5669,11 +5317,7 @@ SplineSet
  300.343963644 783.082438171 309.472235798 779.721625447 316.5 773 c 0
  324.166992188 765.666992188 328 753 328 735 c 0
 EndSplineSet
-<<<<<<< HEAD
-Validated: 33
-=======
 Validated: 1
->>>>>>> cleanup-glyphs
 EndChar
 
 StartChar: braceright
@@ -5782,11 +5426,7 @@ SplineSet
  460.000976562 469.5 466.66796875 474.666992188 474.000976562 478 c 0
  481.333984375 481.333007812 488.666992188 481.333007812 496 478 c 0
 EndSplineSet
-<<<<<<< HEAD
-Validated: 33
-=======
 Validated: 1
->>>>>>> cleanup-glyphs
 EndChar
 
 StartChar: exclamdown
@@ -5838,11 +5478,7 @@ SplineSet
  211.596240014 -23.0824381709 202.137274861 -19.7216254473 194.499023438 -13 c 0
  186.166015625 -5.6669921875 181.999023438 7 181.999023438 25 c 0
 EndSplineSet
-<<<<<<< HEAD
-Validated: 33
-=======
 Validated: 1
->>>>>>> cleanup-glyphs
 EndChar
 
 StartChar: cent
@@ -5915,11 +5551,7 @@ SplineSet
  228.995117188 485.666015625 204.328125 464.333007812 180.995117188 433 c 0
  157.662109375 401.666992188 144.329101562 355.666992188 140.99609375 295 c 0
 EndSplineSet
-<<<<<<< HEAD
-Validated: 33
-=======
 Validated: 1
->>>>>>> cleanup-glyphs
 EndChar
 
 StartChar: sterling
@@ -6011,11 +5643,7 @@ SplineSet
  109.833007812 149 119.5 160.166992188 128.5 172.5 c 0
  137.5 184.833007812 142.666992188 200.333007812 144 219 c 2
 EndSplineSet
-<<<<<<< HEAD
-Validated: 33
-=======
 Validated: 1
->>>>>>> cleanup-glyphs
 EndChar
 
 StartChar: currency
@@ -6088,11 +5716,7 @@ SplineSet
  190.96125346 329.029299675 199.140800148 308.220317355 215.499023438 292.50390625 c 0
  232.499023438 276.170898438 254.33203125 266.670898438 280.999023438 264.00390625 c 0
 EndSplineSet
-<<<<<<< HEAD
-Validated: 33
-=======
 Validated: 1
->>>>>>> cleanup-glyphs
 EndChar
 
 StartChar: yen
@@ -6183,11 +5807,7 @@ SplineSet
  81.1575701506 175.570236766 91.7836325194 178.105355149 105.878886509 178.105355149 c 0
  107.537866085 178.105355149 109.244903535 178.070236766 111 178 c 0
 EndSplineSet
-<<<<<<< HEAD
-Validated: 33
-=======
 Validated: 1
->>>>>>> cleanup-glyphs
 EndChar
 
 StartChar: brokenbar
@@ -6239,11 +5859,7 @@ SplineSet
  292.001953125 291.000976562 302.168945312 288.16796875 312.501953125 282.500976562 c 0
  322.834960938 276.833984375 328.334960938 265.666992188 329.001953125 249 c 2
 EndSplineSet
-<<<<<<< HEAD
-Validated: 33
-=======
 Validated: 1
->>>>>>> cleanup-glyphs
 EndChar
 
 StartChar: dieresis
@@ -6277,11 +5893,7 @@ SplineSet
  244 654.66796875 238.833007812 641.16796875 228.5 629.500976562 c 0
  218.166992188 617.833984375 204 611.000976562 186 609.000976562 c 0
 EndSplineSet
-<<<<<<< HEAD
-Validated: 33
-=======
 Validated: 1
->>>>>>> cleanup-glyphs
 EndChar
 
 StartChar: guillemotleft
@@ -6335,11 +5947,7 @@ SplineSet
  69.0481950479 421.543050053 79.8256524951 426.06457508 94.8331717539 426.06457508 c 0
  95.8686435854 426.06457508 96.9242529133 426.043050053 98 426 c 0
 EndSplineSet
-<<<<<<< HEAD
-Validated: 33
-=======
 Validated: 1
->>>>>>> cleanup-glyphs
 EndChar
 
 StartChar: macron
@@ -6369,11 +5977,7 @@ SplineSet
  70.6669921875 594.666992188 73.5 603 78.5 611 c 0
  83.5 619 94 623 110 623 c 2
 EndSplineSet
-<<<<<<< HEAD
-Validated: 33
-=======
 Validated: 1
->>>>>>> cleanup-glyphs
 EndChar
 
 StartChar: degree
@@ -6407,11 +6011,7 @@ SplineSet
  213.929999532 608.058230338 216.833478766 594.478600487 226.999023438 580.500976562 c 0
  234.999023438 569.500976562 247.999023438 564.000976562 265.999023438 564.000976562 c 0
 EndSplineSet
-<<<<<<< HEAD
-Validated: 33
-=======
 Validated: 1
->>>>>>> cleanup-glyphs
 EndChar
 
 StartChar: plusminus
@@ -6458,11 +6058,7 @@ SplineSet
  95.8686435854 386.06457508 96.9242529133 386.043050053 98 386 c 0
 EndSplineSet
 Refer: 313 8722 S 1 0 0 1 -0.000976562 -299.999 2
-<<<<<<< HEAD
-Validated: 33
-=======
 Validated: 1
->>>>>>> cleanup-glyphs
 EndChar
 
 StartChar: acute
@@ -6491,11 +6087,7 @@ SplineSet
  371.178667545 767.221723079 371.267513036 765.462191819 371.267513036 763.720429657 c 0
  371.267513036 752.395785569 367.511675358 741.822309016 360 732 c 0
 EndSplineSet
-<<<<<<< HEAD
-Validated: 33
-=======
 Validated: 1
->>>>>>> cleanup-glyphs
 EndChar
 
 StartChar: cedilla
@@ -6538,11 +6130,7 @@ SplineSet
  300.334960938 48.3330078125 308.66796875 43 310.000976562 33 c 0
  311.333984375 23 310.666992188 13 308 3 c 0
 EndSplineSet
-<<<<<<< HEAD
-Validated: 33
-=======
 Validated: 1
->>>>>>> cleanup-glyphs
 EndChar
 
 StartChar: guillemotright
@@ -6666,11 +6254,7 @@ SplineSet
  294.333496094 178.666503906 294.500244141 187.624755859 294.500244141 196.374755859 c 0
  294.500244141 205.124755859 294.333496094 213.666503906 294 222 c 1
 EndSplineSet
-<<<<<<< HEAD
-Validated: 33
-=======
 Validated: 1
->>>>>>> cleanup-glyphs
 EndChar
 
 StartChar: questiondown
@@ -6726,11 +6310,7 @@ SplineSet
  287.186556394 463.280260763 295.15391132 460.020499363 300.999023438 453.500976562 c 0
  309.666015625 443.833984375 314.999023438 431.666992188 316.999023438 417 c 0
 EndSplineSet
-<<<<<<< HEAD
-Validated: 33
-=======
 Validated: 1
->>>>>>> cleanup-glyphs
 EndChar
 
 StartChar: Agrave
@@ -6880,11 +6460,7 @@ SplineSet
  176.5 577.166992188 211 609.5 249 632.5 c 0
  287 655.5 323.666992188 667 359 667 c 0
 EndSplineSet
-<<<<<<< HEAD
-Validated: 33
-=======
 Validated: 1
->>>>>>> cleanup-glyphs
 EndChar
 
 StartChar: Egrave
@@ -7103,11 +6679,7 @@ SplineSet
  71.8721125893 69.5232608979 71.5581733606 71.583011481 71.5581733606 73.6792517492 c 0
  71.5581733606 81.5986937475 76.0389431644 90.0389431644 85 99 c 0
 EndSplineSet
-<<<<<<< HEAD
-Validated: 33
-=======
 Validated: 1
->>>>>>> cleanup-glyphs
 EndChar
 
 StartChar: Ugrave
@@ -7176,11 +6748,7 @@ SplineSet
  451.739004633 760.667317677 442.110243036 761.778211785 431 764 c 0
 EndSplineSet
 Refer: 54 85 S 1 0 0 1 0.000976562 0.00195312 2
-<<<<<<< HEAD
-Validated: 33
-=======
 Validated: 1
->>>>>>> cleanup-glyphs
 EndChar
 
 StartChar: Udieresis
@@ -7351,11 +6919,7 @@ SplineSet
  364 493 394 480.5 420 455.5 c 0
  446 430.5 463 402.666992188 471 372 c 0
 EndSplineSet
-<<<<<<< HEAD
-Validated: 33
-=======
 Validated: 1
->>>>>>> cleanup-glyphs
 EndChar
 
 StartChar: egrave
@@ -7558,11 +7122,7 @@ SplineSet
  314.002929688 58.8369140625 298.002929688 51.669921875 278.002929688 49.0029296875 c 0
 EndSplineSet
 Refer: 313 8722 S 1 0 0 1 0 -79.998 2
-<<<<<<< HEAD
-Validated: 33
-=======
 Validated: 1
->>>>>>> cleanup-glyphs
 EndChar
 
 StartChar: ugrave
@@ -7769,11 +7329,7 @@ SplineSet
  368.3359375 352.662109375 359.502929688 395.995117188 350.502929688 439.995117188 c 0
  341.502929688 483.995117188 333.002929688 524.995117188 325.002929688 562.995117188 c 1
 EndSplineSet
-<<<<<<< HEAD
-Validated: 33
-=======
 Validated: 1
->>>>>>> cleanup-glyphs
 EndChar
 
 StartChar: aogonek
@@ -7848,11 +7404,7 @@ SplineSet
  200.497070312 342.829101562 187.6640625 321.99609375 176.997070312 295.99609375 c 0
  166.330078125 269.99609375 160.997070312 237.329101562 160.997070312 197.99609375 c 0
 EndSplineSet
-<<<<<<< HEAD
-Validated: 33
-=======
 Validated: 1
->>>>>>> cleanup-glyphs
 EndChar
 
 StartChar: Cacute
@@ -7936,11 +7488,7 @@ LayerCount: 2
 Fore
 Refer: 279 711 S 1 0 0 1 -2 157 2
 Refer: 36 67 S 1 0 0 1 -0.00976562 0.00195312 2
-<<<<<<< HEAD
-Validated: 9
-=======
 Validated: 1
->>>>>>> cleanup-glyphs
 EndChar
 
 StartChar: ccaron
@@ -7952,11 +7500,7 @@ LayerCount: 2
 Fore
 Refer: 279 711 S 1 0 0 1 -4 -53 2
 Refer: 68 99 S 1 0 0 1 -0.00976562 0.00195312 2
-<<<<<<< HEAD
-Validated: 9
-=======
 Validated: 1
->>>>>>> cleanup-glyphs
 EndChar
 
 StartChar: Dcaron
@@ -7968,11 +7512,7 @@ LayerCount: 2
 Fore
 Refer: 279 711 S 1 0 0 1 0 157 2
 Refer: 37 68 S 1 0 0 1 -0.00976562 0.00195312 2
-<<<<<<< HEAD
-Validated: 9
-=======
 Validated: 1
->>>>>>> cleanup-glyphs
 EndChar
 
 StartChar: dcaron
@@ -8150,11 +7690,7 @@ SplineSet
  486.504892377 -1.65231505643 475.825125049 -6.22847258464 460.961376614 -6.22847258464 c 0
  459.043881423 -6.22847258464 457.056755399 -6.15231505643 455 -6 c 0
 EndSplineSet
-<<<<<<< HEAD
-Validated: 33
-=======
 Validated: 1
->>>>>>> cleanup-glyphs
 EndChar
 
 StartChar: eogonek
@@ -8232,11 +7768,7 @@ SplineSet
  373.33203125 367.333007812 357.999023438 387.333007812 341.999023438 398 c 0
  325.999023438 408.666992188 308.666015625 414 289.999023438 414 c 0
 EndSplineSet
-<<<<<<< HEAD
-Validated: 33
-=======
 Validated: 1
->>>>>>> cleanup-glyphs
 EndChar
 
 StartChar: Ecaron
@@ -8248,11 +7780,7 @@ LayerCount: 2
 Fore
 Refer: 279 711 S 1 0 0 1 -10 157 2
 Refer: 38 69 S 1 0 0 1 -0.00976562 0.00195312 2
-<<<<<<< HEAD
-Validated: 9
-=======
 Validated: 1
->>>>>>> cleanup-glyphs
 EndChar
 
 StartChar: ecaron
@@ -8264,11 +7792,7 @@ LayerCount: 2
 Fore
 Refer: 279 711 S 1 0 0 1 1 -53 2
 Refer: 70 101 S 1 0 0 1 -0.00976562 0.00195312 2
-<<<<<<< HEAD
-Validated: 9
-=======
 Validated: 1
->>>>>>> cleanup-glyphs
 EndChar
 
 StartChar: Gcircumflex
@@ -8388,11 +7912,7 @@ LayerCount: 2
 Fore
 Refer: 278 710 S 1 0 0 1 -3 380 2
 Refer: 73 104 S 1 0 0 1 0.000976562 0.00292969 2
-<<<<<<< HEAD
-Validated: 5
-=======
 Validated: 1
->>>>>>> cleanup-glyphs
 EndChar
 
 StartChar: Itilde
@@ -8545,11 +8065,7 @@ SplineSet
  38.3330078125 31 41.5 40.1669921875 48.5 48.5 c 0
  55.5 56.8330078125 67.6669921875 61.3330078125 85 62 c 0
 EndSplineSet
-<<<<<<< HEAD
-Validated: 33
-=======
 Validated: 1
->>>>>>> cleanup-glyphs
 EndChar
 
 StartChar: iogonek
@@ -8620,11 +8136,7 @@ SplineSet
  78.5009765625 61 89.333984375 65 106.000976562 65 c 2
 EndSplineSet
 Refer: 15 46 N 1 0 0 1 3 534 2
-<<<<<<< HEAD
-Validated: 33
-=======
 Validated: 1
->>>>>>> cleanup-glyphs
 EndChar
 
 StartChar: Idotaccent
@@ -8686,11 +8198,7 @@ SplineSet
  66 36 68.5 45 73.5 53 c 0
  78.5 61 89.3330078125 65 106 65 c 2
 EndSplineSet
-<<<<<<< HEAD
-Validated: 33
-=======
 Validated: 1
->>>>>>> cleanup-glyphs
 EndChar
 
 StartChar: Jcircumflex
@@ -8846,11 +8354,7 @@ LayerCount: 2
 Fore
 Refer: 279 711 S 1 0 0 1 -6 157 2
 Refer: 47 78 S 1 0 0 1 -0.00976562 0.00195312 2
-<<<<<<< HEAD
-Validated: 9
-=======
 Validated: 1
->>>>>>> cleanup-glyphs
 EndChar
 
 StartChar: ncaron
@@ -8862,11 +8366,7 @@ LayerCount: 2
 Fore
 Refer: 279 711 S 1 0 0 1 24 -53 2
 Refer: 79 110 S 1 0 0 1 23.9902 0.00195312 2
-<<<<<<< HEAD
-Validated: 9
-=======
 Validated: 1
->>>>>>> cleanup-glyphs
 EndChar
 
 StartChar: Omacron
@@ -8998,11 +8498,7 @@ LayerCount: 2
 Fore
 Refer: 279 711 S 1 0 0 1 0 157 2
 Refer: 51 82 S 1 0 0 1 -0.00976562 0.00195312 2
-<<<<<<< HEAD
-Validated: 9
-=======
 Validated: 1
->>>>>>> cleanup-glyphs
 EndChar
 
 StartChar: rcaron
@@ -9014,11 +8510,7 @@ LayerCount: 2
 Fore
 Refer: 279 711 S 1 0 0 1 0 -53 2
 Refer: 83 114 S 1 0 0 1 -0.00976562 0.00195312 2
-<<<<<<< HEAD
-Validated: 9
-=======
 Validated: 1
->>>>>>> cleanup-glyphs
 EndChar
 
 StartChar: Sacute
@@ -9153,11 +8645,7 @@ SplineSet
  192 -27 152.5 -17.8330078125 119.5 0.5 c 0
  86.5 18.8330078125 64 39.3330078125 52 62 c 0
 EndSplineSet
-<<<<<<< HEAD
-Validated: 33
-=======
 Validated: 1
->>>>>>> cleanup-glyphs
 EndChar
 
 StartChar: scedilla
@@ -9243,11 +8731,7 @@ SplineSet
  196 -33 163.333007812 -25.3330078125 132 -10 c 0
  100.666992188 5.3330078125 80.6669921875 29.3330078125 72 62 c 0
 EndSplineSet
-<<<<<<< HEAD
-Validated: 33
-=======
 Validated: 1
->>>>>>> cleanup-glyphs
 EndChar
 
 StartChar: Scaron
@@ -9259,11 +8743,7 @@ LayerCount: 2
 Fore
 Refer: 279 711 S 1 0 0 1 -3 157 2
 Refer: 52 83 S 1 0 0 1 -0.00976562 0.00195312 2
-<<<<<<< HEAD
-Validated: 9
-=======
 Validated: 1
->>>>>>> cleanup-glyphs
 EndChar
 
 StartChar: scaron
@@ -9275,11 +8755,7 @@ LayerCount: 2
 Fore
 Refer: 279 711 S 1 0 0 1 0 -53 2
 Refer: 84 115 S 1 0 0 1 -0.00976562 0.00195312 2
-<<<<<<< HEAD
-Validated: 9
-=======
 Validated: 1
->>>>>>> cleanup-glyphs
 EndChar
 
 StartChar: Tcaron
@@ -9291,11 +8767,7 @@ LayerCount: 2
 Fore
 Refer: 279 711 S 1 0 0 1 -5 157 2
 Refer: 53 84 S 1 0 0 1 -0.00976562 0.00195312 2
-<<<<<<< HEAD
-Validated: 9
-=======
 Validated: 1
->>>>>>> cleanup-glyphs
 EndChar
 
 StartChar: tcaron
@@ -9499,11 +8971,7 @@ SplineSet
  520.537941297 447.210792848 520.556423664 439.862035413 520.556423664 432.453727695 c 0
  520.556423664 373.122090317 519.37094911 309.970847753 517 243 c 0
 EndSplineSet
-<<<<<<< HEAD
-Validated: 33
-=======
 Validated: 1
->>>>>>> cleanup-glyphs
 EndChar
 
 StartChar: uogonek
@@ -9582,11 +9050,7 @@ SplineSet
  338.66796875 16.9990234375 338.66796875 14.83203125 338.000976562 12.4990234375 c 0
  337.333984375 10.166015625 335.666992188 8.3330078125 333 7 c 0
 EndSplineSet
-<<<<<<< HEAD
-Validated: 33
-=======
 Validated: 1
->>>>>>> cleanup-glyphs
 EndChar
 
 StartChar: Wcircumflex
@@ -9706,11 +9170,7 @@ LayerCount: 2
 Fore
 Refer: 279 711 S 1 0 0 1 -2 157 2
 Refer: 59 90 S 1 0 0 1 -0.00976562 0.00195312 2
-<<<<<<< HEAD
-Validated: 9
-=======
 Validated: 1
->>>>>>> cleanup-glyphs
 EndChar
 
 StartChar: zcaron
@@ -9722,11 +9182,7 @@ LayerCount: 2
 Fore
 Refer: 279 711 N 1 0 0 1 -7 -53 2
 Refer: 91 122 N 1 0 0 1 -0.00976562 0.00195312 2
-<<<<<<< HEAD
-Validated: 9
-=======
 Validated: 1
->>>>>>> cleanup-glyphs
 EndChar
 
 StartChar: Scommaaccent
@@ -9825,11 +9281,7 @@ SplineSet
  284.666015625 -130.834960938 301.333007812 -113.16796875 314 -91.5009765625 c 0
  326.666992188 -69.833984375 333 -43.6669921875 333 -13 c 0
 EndSplineSet
-<<<<<<< HEAD
-Validated: 33
-=======
 Validated: 1
->>>>>>> cleanup-glyphs
 EndChar
 
 StartChar: circumflex
@@ -9873,11 +9325,7 @@ SplineSet
  468.666015626 460.945203972 464.961552375 460.667317677 460.886574057 460.667317677 c 0
  452.739004633 460.667317677 443.110243036 461.778211785 432 464 c 0
 EndSplineSet
-<<<<<<< HEAD
-Validated: 33
-=======
 Validated: 1
->>>>>>> cleanup-glyphs
 EndChar
 
 StartChar: caron
@@ -9914,11 +9362,7 @@ SplineSet
  313.049804688 701.331054688 339.3828125 720.6640625 362.715820312 736.6640625 c 4
  386.048828125 752.6640625 406.05859375 765.333007812 422.725585938 774.666015625 c 4
 EndSplineSet
-<<<<<<< HEAD
-Validated: 41
-=======
 Validated: 1
->>>>>>> cleanup-glyphs
 EndChar
 
 StartChar: breve
@@ -9955,11 +9399,7 @@ SplineSet
  90.8627873861 631.568936089 97.3464464832 634.103589541 106.451953854 634.103589541 c 0
  109.920791567 634.103589541 113.770140283 633.735733195 118 633 c 0
 EndSplineSet
-<<<<<<< HEAD
-Validated: 33
-=======
 Validated: 1
->>>>>>> cleanup-glyphs
 EndChar
 
 StartChar: dotaccent
@@ -9982,11 +9422,7 @@ SplineSet
  360 661 352.5 642.333007812 337.5 627 c 0
  322.5 611.666992188 302.666992188 602.666992188 278 600 c 0
 EndSplineSet
-<<<<<<< HEAD
-Validated: 33
-=======
 Validated: 1
->>>>>>> cleanup-glyphs
 EndChar
 
 StartChar: ring
@@ -10018,11 +9454,7 @@ SplineSet
  218.925853569 609.150312946 221.57196154 596.92883909 231 584.5 c 0
  238.333007812 574.833007812 250 570 266 570 c 0
 EndSplineSet
-<<<<<<< HEAD
-Validated: 33
-=======
 Validated: 1
->>>>>>> cleanup-glyphs
 EndChar
 
 StartChar: ogonek
@@ -10100,11 +9532,7 @@ SplineSet
  410.515358665 735.954545455 416.705384814 738.181818182 423.570330109 738.181818182 c 0
  427.493155992 738.181818182 431.636363636 737.454545455 436 736 c 0
 EndSplineSet
-<<<<<<< HEAD
-Validated: 33
-=======
 Validated: 1
->>>>>>> cleanup-glyphs
 EndChar
 
 StartChar: hungarumlaut
@@ -10151,11 +9579,7 @@ SplineSet
  450.8359375 734.33203125 453.8359375 729.165039062 455.502929688 723.498046875 c 0
  457.169921875 717.831054688 456.336914062 711.998046875 453.00390625 705.998046875 c 0
 EndSplineSet
-<<<<<<< HEAD
-Validated: 33
-=======
 Validated: 1
->>>>>>> cleanup-glyphs
 EndChar
 
 StartChar: Wgrave
@@ -10310,11 +9734,7 @@ SplineSet
  54.1427076792 308.047662237 63.8145727698 312.071493356 78.516377087 312.071493356 c 0
  79.6477948172 312.071493356 80.8090023361 312.047662237 82 312 c 0
 EndSplineSet
-<<<<<<< HEAD
-Validated: 33
-=======
 Validated: 1
->>>>>>> cleanup-glyphs
 EndChar
 
 StartChar: quoteleft
@@ -10347,11 +9767,7 @@ SplineSet
  288.395337957 451.87391661 286.959884593 451.915618886 285.500976562 451.999023438 c 0
  273.833984375 452.666015625 263.666992188 460.333007812 255 475 c 0
 EndSplineSet
-<<<<<<< HEAD
-Validated: 33
-=======
 Validated: 1
->>>>>>> cleanup-glyphs
 EndChar
 
 StartChar: quoteright
@@ -10384,11 +9800,7 @@ SplineSet
  353.375032185 653.063241601 355.062635184 647.150888213 355.062635184 640.763916398 c 0
  355.062635184 635.796379934 354.041784048 630.541741135 352 625 c 0
 EndSplineSet
-<<<<<<< HEAD
-Validated: 33
-=======
 Validated: 1
->>>>>>> cleanup-glyphs
 EndChar
 
 StartChar: quotesinglbase
@@ -10421,11 +9833,7 @@ SplineSet
  244.914313928 691.124914172 249.12511159 690.749959945 253.5 690 c 0
  265.166992188 688 274 679 280 663 c 0
 EndSplineSet
-<<<<<<< HEAD
-Validated: 33
-=======
 Validated: 1
->>>>>>> cleanup-glyphs
 EndChar
 
 StartChar: quotedblleft
@@ -10471,11 +9879,7 @@ SplineSet
  295.062635184 685.796379934 294.041784048 680.541741135 292 675 c 0
 EndSplineSet
 Refer: 297 8217 N 1 0 0 1 80 0.00585938 2
-<<<<<<< HEAD
-Validated: 33
-=======
 Validated: 1
->>>>>>> cleanup-glyphs
 EndChar
 
 StartChar: dagger
@@ -10527,11 +9931,7 @@ SplineSet
  51.3330078125 514 53.5 523.333007812 58.5 532 c 0
  63.5 540.666992188 74.3330078125 545 91 545 c 2
 EndSplineSet
-<<<<<<< HEAD
-Validated: 33
-=======
 Validated: 1
->>>>>>> cleanup-glyphs
 EndChar
 
 StartChar: daggerdbl
@@ -10603,11 +10003,7 @@ SplineSet
  51.6669921875 321.666992188 54.5 329.666992188 59.5 337 c 0
  64.5 344.333007812 75 348 91 348 c 0
 EndSplineSet
-<<<<<<< HEAD
-Validated: 33
-=======
 Validated: 1
->>>>>>> cleanup-glyphs
 EndChar
 
 StartChar: bullet
@@ -10630,11 +10026,7 @@ SplineSet
  367 378.666015625 358.833007812 358.833007812 342.5 342.5 c 0
  326.166992188 326.166992188 304.666992188 316.666992188 278 314 c 0
 EndSplineSet
-<<<<<<< HEAD
-Validated: 33
-=======
 Validated: 1
->>>>>>> cleanup-glyphs
 EndChar
 
 StartChar: ellipsis
@@ -10679,11 +10071,7 @@ SplineSet
  498 25.6650390625 493.333007812 14.1650390625 484 4.498046875 c 0
  474.666992188 -5.1689453125 462 -10.6689453125 446 -12.001953125 c 0
 EndSplineSet
-<<<<<<< HEAD
-Validated: 33
-=======
 Validated: 1
->>>>>>> cleanup-glyphs
 EndChar
 
 StartChar: guilsinglleft
@@ -10722,11 +10110,7 @@ SplineSet
  102 311.833007812 103.166992188 319.833007812 105.5 327.5 c 0
  107.833007812 335.166992188 111.333007812 341 116 345 c 0
 EndSplineSet
-<<<<<<< HEAD
-Validated: 33
-=======
 Validated: 1
->>>>>>> cleanup-glyphs
 EndChar
 
 StartChar: guilsinglright
@@ -10765,11 +10149,7 @@ SplineSet
  271.5 423.833984375 291.5 407.666992188 312.5 391 c 0
  333.5 374.333007812 354 359 374 345 c 0
 EndSplineSet
-<<<<<<< HEAD
-Validated: 33
-=======
 Validated: 1
->>>>>>> cleanup-glyphs
 EndChar
 
 StartChar: fraction
@@ -10873,11 +10253,7 @@ SplineSet
  69.0170673414 420.879086582 79.7232839405 425.069023906 94.6194378633 425.069023906 c 0
  95.7232839401 425.069023906 96.8501378788 425.046016044 98 425 c 2
 EndSplineSet
-<<<<<<< HEAD
-Validated: 33
-=======
 Validated: 1
->>>>>>> cleanup-glyphs
 EndChar
 
 StartChar: arrowleft
@@ -10925,11 +10301,7 @@ SplineSet
  36 329.833984375 37 336.166992188 39 342.5 c 0
  41 348.833007812 44 353.333007812 48 356 c 0
 EndSplineSet
-<<<<<<< HEAD
-Validated: 33
-=======
 Validated: 1
->>>>>>> cleanup-glyphs
 EndChar
 
 StartChar: arrowup
@@ -10977,11 +10349,7 @@ SplineSet
  276.833984375 562 283.166992188 561 289.5 559 c 0
  295.833007812 557 300.333007812 554 303 550 c 0
 EndSplineSet
-<<<<<<< HEAD
-Validated: 33
-=======
 Validated: 1
->>>>>>> cleanup-glyphs
 EndChar
 
 StartChar: arrowright
@@ -11029,11 +10397,7 @@ SplineSet
  39.6669921875 345.333984375 42.5 355.666992188 47.5 365 c 0
  52.5 374.333007812 63 379 79 379 c 0
 EndSplineSet
-<<<<<<< HEAD
-Validated: 33
-=======
 Validated: 1
->>>>>>> cleanup-glyphs
 EndChar
 
 StartChar: arrowdown
@@ -11081,11 +10445,7 @@ SplineSet
  438.33203125 272.333007812 416.33203125 244.833007812 388.999023438 210.5 c 0
  361.666015625 176.166992188 336.333007812 141 313 105 c 0
 EndSplineSet
-<<<<<<< HEAD
-Validated: 33
-=======
 Validated: 1
->>>>>>> cleanup-glyphs
 EndChar
 
 StartChar: minus
@@ -11116,11 +10476,7 @@ SplineSet
  69.0481950479 391.543050053 79.8256524951 396.06457508 94.8331717539 396.06457508 c 0
  95.8686435854 396.06457508 96.9242529133 396.043050053 98 396 c 0
 EndSplineSet
-<<<<<<< HEAD
-Validated: 33
-=======
 Validated: 1
->>>>>>> cleanup-glyphs
 EndChar
 
 StartChar: lessequal
@@ -11179,11 +10535,7 @@ SplineSet
  59.0491716107 61.5450031783 69.8266290586 66.066528205 84.8341483184 66.066528205 c 0
  85.8696201493 66.066528205 86.9252294765 66.0450031783 88.0009765625 66.001953125 c 0
 EndSplineSet
-<<<<<<< HEAD
-Validated: 33
-=======
 Validated: 1
->>>>>>> cleanup-glyphs
 EndChar
 
 StartChar: greaterequal
@@ -11242,11 +10594,7 @@ SplineSet
  40.66796875 34.6650390625 43.5009765625 42.998046875 48.5009765625 50.998046875 c 0
  53.5009765625 58.998046875 64.0009765625 62.998046875 80.0009765625 62.998046875 c 2
 EndSplineSet
-<<<<<<< HEAD
-Validated: 33
-=======
 Validated: 1
->>>>>>> cleanup-glyphs
 EndChar
 
 StartChar: commaaccent
@@ -11281,11 +10629,7 @@ LayerCount: 2
 Fore
 Refer: 279 711 S 1 0 0 1 0 257 2
 Refer: 77 108 S 1 0 0 1 -0.00976562 0.00195312 2
-<<<<<<< HEAD
-Validated: 9
-=======
 Validated: 1
->>>>>>> cleanup-glyphs
 EndChar
 
 StartChar: ccommaaccent
@@ -11393,11 +10737,7 @@ SplineSet
  300.343963652 1170.08341473 309.472235801 1166.72260201 316.5 1160.00097656 c 0
  324.166992188 1152.66796875 328 1140.00097656 328 1122.00097656 c 0
 EndSplineSet
-<<<<<<< HEAD
-Validated: 33
-=======
 Validated: 1
->>>>>>> cleanup-glyphs
 EndChar
 
 StartChar: uni2503
@@ -11532,11 +10872,7 @@ SplineSet
  243 230 243 229 244 229 c 1
  244 230 l 1
 EndSplineSet
-<<<<<<< HEAD
-Validated: 37
-=======
 Validated: 5
->>>>>>> cleanup-glyphs
 EndChar
 
 StartChar: uni250D
@@ -11568,11 +10904,8 @@ Flags: HW
 HStem: 235 76<307.784 808.167>
 LayerCount: 2
 Fore
-<<<<<<< HEAD
 Refer: 333 9484 S 1 0 0 1 0 0 2
-=======
 Refer: 333 9484 N 1 0 0 1 0 0 2
->>>>>>> cleanup-glyphs
 Validated: 5
 EndChar
 
@@ -11617,11 +10950,7 @@ SplineSet
  305.047722064 229.523171325 304.92453883 229.351373025 304.03893491 229.174031999 c 1
  304.03893491 229.344897414 304.03893491 229.5141791 304.03893491 229.681871314 c 1
 EndSplineSet
-<<<<<<< HEAD
-Validated: 37
-=======
 Validated: 5
->>>>>>> cleanup-glyphs
 EndChar
 
 StartChar: uni2511
@@ -11631,11 +10960,8 @@ Flags: HW
 HStem: 235 76<307.784 808.167>
 LayerCount: 2
 Fore
-<<<<<<< HEAD
 Refer: 337 9488 S 1 0 0 1 0 0 2
-=======
 Refer: 337 9488 N 1 0 0 1 0 0 2
->>>>>>> cleanup-glyphs
 Validated: 5
 EndChar
 
@@ -11646,11 +10972,8 @@ Flags: HW
 HStem: 235 76<300.784 801.167>
 LayerCount: 2
 Fore
-<<<<<<< HEAD
 Refer: 337 9488 S 1 0 0 1 0 0 2
-=======
 Refer: 337 9488 N 1 0 0 1 -12 -4 2
->>>>>>> cleanup-glyphs
 Validated: 5
 EndChar
 
@@ -11661,11 +10984,8 @@ Flags: HW
 HStem: 235 76<307.784 808.167>
 LayerCount: 2
 Fore
-<<<<<<< HEAD
 Refer: 337 9488 S 1 0 0 1 0 0 2
-=======
 Refer: 337 9488 N 1 0 0 1 0 0 2
->>>>>>> cleanup-glyphs
 Validated: 5
 EndChar
 
@@ -11710,11 +11030,7 @@ SplineSet
  242.952277936 315.476828675 243.07546117 315.648626975 243.96106509 315.825968001 c 1
  243.96106509 315.655102586 243.96106509 315.4858209 243.96106509 315.318128686 c 1
 EndSplineSet
-<<<<<<< HEAD
-Validated: 37
-=======
 Validated: 5
->>>>>>> cleanup-glyphs
 EndChar
 
 StartChar: SF040000
@@ -11757,11 +11073,7 @@ SplineSet
  304.047722064 315.476828675 303.92453883 315.648626975 303.03893491 315.825968001 c 1
  303.03893491 315.655102586 303.03893491 315.4858209 303.03893491 315.318128686 c 1
 EndSplineSet
-<<<<<<< HEAD
-Validated: 37
-=======
 Validated: 5
->>>>>>> cleanup-glyphs
 EndChar
 
 StartChar: uni2519
@@ -11862,11 +11174,7 @@ SplineSet
  187.092137868 516.022790327 183.27879305 515.561247576 179.574939736 515.561247576 c 0
  145.376453208 515.561247576 120.512371725 554.908838694 116.000976562 591 c 0
 EndSplineSet
-<<<<<<< HEAD
-Validated: 33
-=======
 Validated: 1
->>>>>>> cleanup-glyphs
 EndChar
 
 StartChar: uni28FF
@@ -12085,11 +11393,7 @@ SplineSet
 263.000976562 416 m 1024
 EndSplineSet
 Refer: 518 10352 S 1 0 0 1 0 0 2
-<<<<<<< HEAD
-Validated: 33
-=======
 Validated: 1
->>>>>>> cleanup-glyphs
 EndChar
 
 StartChar: uni28EF
@@ -12672,11 +11976,7 @@ SplineSet
 390.000976562 171 m 1024
 EndSplineSet
 Refer: 559 10309 S 1 0 0 1 0 0 2
-<<<<<<< HEAD
-Validated: 33
-=======
 Validated: 1
->>>>>>> cleanup-glyphs
 EndChar
 
 StartChar: uni28C4
@@ -12918,11 +12218,7 @@ SplineSet
  179.162859339 -0.95928516517 175.426943762 -1.41244491488 171.803729161 -1.41244491488 c 0
  137.657000769 -1.41244491488 113.520357417 38.8371406607 109 75 c 0
 EndSplineSet
-<<<<<<< HEAD
-Validated: 33
-=======
 Validated: 1
->>>>>>> cleanup-glyphs
 EndChar
 
 StartChar: uni2800
@@ -12966,11 +12262,7 @@ SplineSet
  184.017849995 342.004218358 180.153713156 341.533974688 176.419427428 341.533974688 c 0
  142.652663016 341.533974688 119.503085741 379.983126567 115.000976562 416 c 0
 EndSplineSet
-<<<<<<< HEAD
-Validated: 33
-=======
 Validated: 1
->>>>>>> cleanup-glyphs
 EndChar
 
 StartChar: uni2803
@@ -13005,11 +12297,7 @@ SplineSet
  181.017849995 170.004218358 177.143797346 169.533974688 173.391654792 169.533974688 c 0
  139.463422498 169.533974688 115.503085741 207.983126567 111.000976562 244 c 0
 EndSplineSet
-<<<<<<< HEAD
-Validated: 33
-=======
 Validated: 1
->>>>>>> cleanup-glyphs
 EndChar
 
 StartChar: uni2805
@@ -13070,11 +12358,7 @@ SplineSet
  391.017849995 516.004218358 387.133881535 515.533974688 383.363882157 515.533974688 c 0
  349.27418198 515.533974688 324.503085741 553.983126567 320.000976562 590 c 0
 EndSplineSet
-<<<<<<< HEAD
-Validated: 33
-=======
 Validated: 1
->>>>>>> cleanup-glyphs
 EndChar
 
 StartChar: uni2809
@@ -13187,11 +12471,7 @@ SplineSet
  389.017849995 342.004218358 385.143797346 341.533974688 381.391654792 341.533974688 c 0
  347.463422498 341.533974688 323.503085741 379.983126567 319.000976562 416 c 0
 EndSplineSet
-<<<<<<< HEAD
-Validated: 33
-=======
 Validated: 1
->>>>>>> cleanup-glyphs
 EndChar
 
 StartChar: uni2811
@@ -13941,11 +13221,7 @@ SplineSet
  383.091161306 -0.977209673383 379.296915262 -1.43875242406 375.627526797 -1.43875242406 c 0
  341.747261741 -1.43875242406 318.511395163 37.9088386935 314 74 c 0
 EndSplineSet
-<<<<<<< HEAD
-Validated: 33
-=======
 Validated: 1
->>>>>>> cleanup-glyphs
 EndChar
 
 StartChar: uni287F
@@ -14945,11 +14221,7 @@ SplineSet
 393.000976562 343 m 1024
 EndSplineSet
 Refer: 443 10254 S 1 0 0 1 0 0 2
-<<<<<<< HEAD
-Validated: 33
-=======
 Validated: 1
->>>>>>> cleanup-glyphs
 EndChar
 
 StartChar: uni282D
@@ -15141,11 +14413,7 @@ SplineSet
  354.848953153 169.533892127 335.767906517 187.828377057 324.71484375 211 c 0
  319.744140625 221.420898438 316.397460938 232.827148438 315.000976562 244 c 0
 EndSplineSet
-<<<<<<< HEAD
-Validated: 33
-=======
 Validated: 1
->>>>>>> cleanup-glyphs
 EndChar
 
 StartChar: uni281F
@@ -15343,11 +14611,7 @@ SplineSet
  395 232 401 347 401 413 c 0
  401 505 315 530 264 530 c 0
 EndSplineSet
-<<<<<<< HEAD
-Validated: 33
-=======
 Validated: 1
->>>>>>> cleanup-glyphs
 EndChar
 
 StartChar: thorn
@@ -15385,11 +14649,7 @@ SplineSet
  247 397 194 371 160 342 c 1
  160 331 l 2
 EndSplineSet
-<<<<<<< HEAD
-Validated: 33
-=======
 Validated: 1
->>>>>>> cleanup-glyphs
 EndChar
 
 StartChar: longs
@@ -15429,11 +14689,7 @@ SplineSet
  77.9384099228 37.994598249 77.9384099228 71.0359889329 122.442050173 71.0359889329 c 0
  123.280327415 71.0359889329 124.132912152 71.0240857736 125 71 c 0x74
 EndSplineSet
-<<<<<<< HEAD
-Validated: 33
-=======
 Validated: 1
->>>>>>> cleanup-glyphs
 EndChar
 
 StartChar: uni01BF
@@ -15472,11 +14728,7 @@ SplineSet
  247 397 194 371 160 342 c 1
  160 331 l 2
 EndSplineSet
-<<<<<<< HEAD
-Validated: 33
-=======
 Validated: 1
->>>>>>> cleanup-glyphs
 EndChar
 
 StartChar: AE
@@ -15538,11 +14790,7 @@ SplineSet
  163.841705327 481.630477911 147.901585646 388.224927063 126.928710938 297 c 1xa0
  168.588475618 304.969288069 180.556633034 308.969229117 205.574434179 309.988350329 c 1
 EndSplineSet
-<<<<<<< HEAD
-Validated: 33
-=======
 Validated: 1
->>>>>>> cleanup-glyphs
 EndChar
 
 StartChar: ae
@@ -15590,11 +14838,7 @@ SplineSet
  225.0703125 392 212.290039062 402 183.1796875 402 c 0
  146.259765625 402 78.099609375 355 78.099609375 198 c 0
 EndSplineSet
-<<<<<<< HEAD
-Validated: 33
-=======
 Validated: 1
->>>>>>> cleanup-glyphs
 EndChar
 
 StartChar: uni01F7
@@ -15629,11 +14873,7 @@ SplineSet
  305 308 399 387.984849354 399 520 c 0
  399 588 315 589 264 589 c 0
 EndSplineSet
-<<<<<<< HEAD
-Validated: 33
-=======
 Validated: 1
->>>>>>> cleanup-glyphs
 EndChar
 
 StartChar: universal
@@ -15706,11 +14946,7 @@ SplineSet
  234.846863068 390.608692668 204.579573257 415.999999979 165.389648438 416 c 0
  107.29806576 416 78.0317650444 328.111772716 78.0317650444 209.846236823 c 0
 EndSplineSet
-<<<<<<< HEAD
-Validated: 5
-=======
 Validated: 1
->>>>>>> cleanup-glyphs
 EndChar
 
 StartChar: OE
@@ -15769,11 +15005,7 @@ SplineSet
  86.0048828125 153 105.209960938 56 171.174804688 56 c 0
  200.567060563 56 230.96844601 65.3770495076 255.851722777 87.6253029345 c 1
 EndSplineSet
-<<<<<<< HEAD
-Validated: 33
-=======
 Validated: 1
->>>>>>> cleanup-glyphs
 EndChar
 
 StartChar: uniA75B
@@ -15831,29 +15063,28 @@ LayerCount: 2
 Fore
 SplineSet
 617 683 m 0
- 614.333007812 671 616.49609375 671.666015625 609.49609375 645.999023438 c 0
- 602.49609375 620.33203125 606.5 632 597.5 605 c 0
- 588.5 578 598.5 607.666992188 589.5 584 c 0
- 580.5 560.333007812 573 544.5 567 536.5 c 0
- 556.333007812 522.5 543.333007812 513 528 508 c 0
- 518.800267191 505.000023439 510.680517505 503.500140625 503.640750944 503.500140625 c 0
- 498.947481565 503.500140625 494.734223438 504.166781251 491.000976562 505.5 c 0
- 481.66796875 508.166992188 473.834960938 515 467.501953125 526 c 0
- 464.828153928 530.644205729 463.49125433 535.496431643 463.49125433 540.556604247 c 0
- 463.49125433 547.481666986 465.995146116 554.79619503 471.002929688 562.5 c 0
- 477.669921875 572.5 486.169921875 589.5 496.502929688 613.5 c 0
- 506.8359375 637.5 497.8359375 607.833007812 507.502929688 634.5 c 0
- 517.169921875 661.166992188 513.833007812 648.666015625 521.5 672.999023438 c 0
- 529.166992188 697.33203125 526.96875 695.337890625 529 705.999023438 c 0
- 531.666992188 719.999023438 539.333984375 728.499023438 552.000976562 731.499023438 c 0
- 558.707189862 733.087296297 565.039500582 733.881505184 570.998053635 733.881505184 c 0
- 576.294279038 733.881505184 581.295219426 733.25404519 586.000976562 731.999023438 c 0
- 594.66796875 729.33203125 602.66796875 723.83203125 610.000976562 715.499023438 c 0
- 615.349762911 709.420824755 618.189013546 701.980826258 618.189013546 693.248381776 c 0
- 618.189013546 690.008935919 617.798286462 686.591628465 617 683 c 0
+ 614 671 616 672 609 646 c 0
+ 602 620 606 632 598 605 c 0
+ 588 578 598 608 590 584 c 0
+ 580 560 573 544 567 536 c 0
+ 556 522 543 513 528 508 c 0
+ 519 505 511 504 504 504 c 0
+ 499 504 495 504 491 506 c 0
+ 482 508 474 515 468 526 c 0
+ 465 531 463 535 463 541 c 0
+ 463 547 466 555 471 562 c 0
+ 478 572 486 590 497 614 c 0
+ 507 638 498 608 508 634 c 0
+ 517 661 514 649 522 673 c 0
+ 529 697 527 695 529 706 c 0
+ 532 720 539 728 552 731 c 0
+ 559 733 565 734 571 734 c 0
+ 576 734 581 733 586 732 c 0
+ 595 729 603 724 610 715 c 0
+ 615 709 618 702 618 693 c 0
+ 618 690 618 687 617 683 c 0
 EndSplineSet
-<<<<<<< HEAD
-Validated: 33
+Validated: 1
 EndChar
 
 StartChar: lambda
@@ -15898,8 +15129,6 @@ SplineSet
  130.240234375 796.001953125 134.37890625 795.315429688 138.500976562 793.94140625 c 0
  151.500976562 789.608398438 161 781.107421875 167 768.440429688 c 0
 EndSplineSet
-=======
->>>>>>> cleanup-glyphs
 Validated: 1
 EndChar
 EndChars
